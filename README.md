@@ -6,19 +6,19 @@
         <meta attribute charset="utf-8">
         <title>Dog World</title>
     </head>
-    <body>
+    <body style="background-color:wheat">
         <main>
-        <h1>DOG WORLD</h1>
+        <h1>WELCOME TO THE WORLD KNOWN AS "THE DOG WORLD"</h1>
         <section>
-            <h2>Dog Photos</h2>
+            <h2>See below for some dog photos</h2>
             <p>Everyone adores <a target="_blank" href="https://www.pinterest.com/pin/13229392651904465/">cute dogs</a> online!</p>
             <p>See one more <a target="_blank" href="https://www.pinterest.com/pin/706150416620921288/">dog photo!</a> Right here click right here!!</p>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUyPAkyFacfytbwOqQJArPN7nwBQyAyKufpQ&s">
         </section>
         
         <section>
-            <h2>Dog List</h2>
-            <h3>Things Dogs Love</h3>
+            <h2>A list of a Dogs likes and dislikes:</h2>
+            <h3>Top 3 things that dogs like</h3>
             <ul>
                 <li>BONES</li>
                 <li>MEAT</li>
@@ -31,7 +31,7 @@
         </section>
 
         <section>
-            <h2>Top 3 things DOGS hate</h2>
+            <h2>Top 3 things that dogs dislikes</h2>
             <ol>
                 <li>Lil Pupus</li>
                 <li>Stankssss</li>
@@ -47,9 +47,9 @@
             <h2>Cat form</h2>
             <form action="https://freecatphotoapp.com/submit-cat-photo">
                 <fieldset>
-                    <legend>Is your DOG an indoor or outdoor dog?</legend>
-                    <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked>Indoor</label>
-                    <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor">Outdoor</label>
+                    <legend>Is your DOG an indoor pupu or outdoor pupu dog?</legend>
+                    <label><input id="indoor" type="radio" name="indoor-outdoor" value="indoor" checked>Indoor pupu</label>
+                    <label><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor">Outdoor pupu</label>
                 </fieldset>
 
                 <fieldset>
